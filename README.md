@@ -12,7 +12,7 @@ JavaScript, Node.js, POSTMAN, express.js, sequelize, MySQL
 
 ### Video
 
-
+https://drive.google.com/file/d/1gz9EanhmgZLnDc7qR4lb13ZyyWESidZJ/view 
 
 ### Github Repo
 
